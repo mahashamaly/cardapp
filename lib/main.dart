@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
               SizedBox(
                 height: 15,
               ),
-              Text('Flutter Devloper',style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold)),
+              Text('Flutter Devlopers',style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold)),
               //DIVIDER علشان يظهر الخط
               SizedBox(
                 height: 5,
